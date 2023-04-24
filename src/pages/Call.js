@@ -19,7 +19,7 @@ function Call() {
                           <hgroup>
                             <div className="outer_title">
                               <h1 className="btt" style={{ fontSize: "1.5em" }}>
-                                Paper Submission
+                                Call For Paper{" "}
                               </h1>
                             </div>
                           </hgroup>
@@ -34,112 +34,214 @@ function Call() {
                       </div>
                     </div>
 
-                    <div>
-                      <div>
-                        <div>
-                          <p>
-                            The Canada International Conference On Engineering
-                            and Sciences&nbsp; (CICES 2023) offers a great
-                            opportunity to bring together professors,
-                            researchers, and scholars around the globe, having a
-                            great platform to deliver the latest innovative
-                            research result and the most recent development and
-                            trends in engineering and natural sciences field.
-                          </p>
-                          <p>
-                            2023 CICES will take place from May 21-25, 2023 in
-                            Calgary, Canada. The scholars are encouraged to
-                            submit full papers or abstracts on any aspect of
-                            engineering and natural science. All manuscripts
-                            submissions should be sent via email - submission
-                            (at) blader .com
-                          </p>
-                          <p>
-                            TOPICS of interested includes, but not limited to
-                          </p>
-                          <p>- Biological Engineering</p>
-                          <p>- Chemical Engineering</p>
-                          <p>- Civil Engineering</p>
-                          <p>- Computer and Information Sciences</p>
-                          <p>- Electrical and Electronic Engineering</p>
-                          <p>- Environmental Science</p>
-                          <p>- Fundamentals Of Natural Sciences</p>
-                          <p>- Power and Energy Engineering</p>
-                          <p>- Material Science and Engineering</p>
-                          <p>- Mechanical Engineering</p>
-                          <p>
-                            Please submit an abstract to: submission (at)
-                            blader.com, not later than May 5, 2023&nbsp; to:
-                            Ass.Prof. Martha Blake. Please include: Title of
-                            Paper, Full Name (s), Current Position,
-                            Institutional Affiliation, an email address and at
-                            least 3 keywords that best describe the subject of
-                            your submission.{" "}
-                          </p>
-                          <p>
-                            If your submission is accepted, you should be
-                            notified within 48 hrs, issued an author number and
-                            required to register online for the conference.
-                            Should you wish to participate in the Conference
-                            without presenting a paper, for example, to chair a
-                            session, to evaluate papers which are to be included
-                            in the conference proceedings or books, to
-                            contribute to the editing of a book, or any other
-                            contribution, please send an email to Dr. Felicity
-                            Lohan, felicity (at) blader.com.
-                          </p>
-                          <p>
-                            <strong>Abstract Submission Guidelines</strong>
-                          </p>
-                          <p>
-                            Organizers of the conference welcome submissions
-                            written in English language ONLY that are closely
-                            related to the areas specified in the call for
-                            papers.
-                          </p>
-                          <p>
-                            Abstract should not exceed 300 words and it must
-                            clearly indicate the problem, objectives, research
-                            methods, results and conclusions.
-                          </p>
-                          <p>
-                            Submitted abstracts must fit online format that
-                            doesn't register long abstracts and abstracts that
-                            include graphics and tables.
-                          </p>
-                          <p>
-                            Authors are also advised to proofread their
-                            abstracts because abstracts will be reproduced from
-                            the online submission. Any error in spelling,
-                            grammar or data will appear online or in print.
-                          </p>
-                          <p>
-                            Authors of the submitted abstracts for presentation
-                            must also make separate registration for the
-                            conference by filling in the Registration Form.
-                          </p>
-                          <p>
-                            Submission of abstracts doesn't include official
-                            registration for the conference. If the abstract is
-                            submitted by two authors, both of them must make the
-                            official registration.
-                          </p>
-
-                          <p>
-                            <img
-                              src="https://cices.icmbpsgroup.com/papersubmission_files/g.jpg"
-                              className="age"
-                            />
-                          </p>
-                          <p>
-                            <img
-                              src="https://cices.icmbpsgroup.com/papersubmission_files/s.jpeg"
-                              className="age"
-                            />
-                          </p>
-                        </div>
-                      </div>
-                      <div></div>
+                    <div class="content_body_inner_2">
+                      <p>
+                        All relevant stakeholders are welcome to submit your
+                        original research papers to the International Healthcare
+                        and Medicine Conference which integrates the disciplines
+                        towards a better society. The conference is a platform
+                        for addressing the various healthcare and medical
+                        concerns by discussing and working together towards
+                        enhancing the well-being for all at all ages.
+                      </p>
+                      <p>
+                        Your original research abstracts, should be made
+                        according to the issued format in the Abstract
+                        Submission Guidelines prior to the Abstract Submission
+                        Deadline 15 May 2023. All submitted research papers,
+                        will be evaluated by a group of experts in the related
+                        disciplines in accordance with the international
+                        criteria. All the assented will be eligible for
+                        presentation at the conference and should be registered
+                        not later than 24 hrs. of receiving an acceptance
+                        notification.
+                      </p>
+                      <p>
+                        The following are the conference tracks for abstract and
+                        paper submission, but not limited to:
+                      </p>
+                      <p>
+                        <br />
+                      </p>
+                      <table>
+                        <tbody>
+                          <tr>
+                            <td>
+                              A. Research Issues– Computers and Primary Care
+                              <br />– Clinical Data Visualisation Standards
+                              <br />– e-Health Architectures
+                              <br />– Healthcare Data Architecture and
+                              Terminology Standards
+                              <br />– Federated Electronic Health Records
+                              <br />– Personalized Medicine
+                              <br />– Health Informatics and Education
+                              <br />– Human Computer Interaction
+                              <br />– Infrastructure and Architecture
+                              <br />– Internet and Medicine
+                              <br />– Interoperability issues
+                              <br />– IT and Patient Care
+                              <br />– Nursing Informatics
+                              <br />– RFID and localization techniques
+                              <br />– Usability and Ubiquity in e-Health
+                              <br />– e-Health Virtual Communities
+                              <br />– Business Process Management Systems
+                              <br />– Second Life for Healthcare Support and
+                              Education
+                            </td>
+                            <td>
+                              B. Management Issues– Case Studies
+                              <br />– Management Change
+                              <br />– Confidentiality and Privacy
+                              <br />– e-Health Collaborative Strategies and
+                              Techniques
+                              <br />– e-Training
+                              <br />– Healthcare Management Dashboards
+                              <br />– Legal issues
+                              <br />– Balanced scorecards models to improve
+                              Hospital Performance and Productivity
+                              <br />– Business Intelligence in Healthcare
+                              <br />– e-Health to improve Healthcare Quality and
+                              Patient Safety.
+                              <br />– Healthcare Information Systems Regulatory
+                              issues
+                              <br />– Security in e-Health
+                              <br />– Service Models
+                              <br />– Social implications
+                              <br />– Stakeholders involvement
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                      <p>
+                        C. Applications– Clinical Information Systems
+                        <br />– Data Mining and Clinical Studies
+                        <br />– Medical Guidelines
+                        <br />– e-Health Decision Support Systems
+                        <br />– e-Logistics and e-Pharmacy
+                        <br />– Intelligent Medical Systems
+                        <br />– Mobile Applications
+                        <br />– Patient Electronic Health Records
+                        <br />– Healthcare Portals to inform and connect
+                        Patients with Physicians
+                        <br />– Patients and Public Health
+                        <br />– Social Networks in Healthcare contexts
+                        <br />– e-Health Marketing
+                        <br />– e-Procurement and e-Commerce
+                        <br />– Telemedicine
+                        <br />– Automatic Identification and Data Collector
+                        Systems
+                        <br />– Unified data processing and communication
+                        Systems
+                        <br />
+                        <br />
+                      </p>
+                      <p>
+                        <strong>Two-Track Submissions</strong>
+                      </p>
+                      <p>
+                        Conference submissions follow two tracks: full
+                        conference papers and extended abstracts. All accepted
+                        full papers will be published as a volume in the
+                        Proceedings of IHCMC . The best full papers will also be
+                        invited for submission to a special issue of Medical
+                        Image Analysis, a top journal in the field.
+                      </p>
+                      <p>
+                        <strong>&nbsp;&nbsp;For the Co-Authors</strong>
+                      </p>
+                      <p>
+                        Please note a single registration permits only one
+                        person to attend the conference
+                      </p>
+                      <p>
+                        If the co-authors would like to attend the conference
+                        their registration and payment is required to be made
+                        independently.
+                      </p>
+                      <p>
+                        However, they will be given a discount of 15% from
+                        Non-Presenter’s (Listener’s) registration fee.
+                      </p>
+                      <p>
+                        The certificate will be issued for the co-authors upon
+                        their registration/payment for the conference.
+                      </p>
+                      <p>
+                        Please make prior communications with the organizing
+                        committee regards to this matter to enjoy the benefit of
+                        the discount.
+                        <br />
+                      </p>
+                      <p>
+                        <strong>Submission guidelines&nbsp;</strong>
+                      </p>
+                      <p>
+                        The Conference will be composed of several types of
+                        contributions:
+                        <br />
+                      </p>
+                      <ul>
+                        {" "}
+                        <p></p>
+                        <li>
+                          Full Papers – These include mainly accomplished
+                          research results and have 8 pages at the maximum
+                          (5,000 words).
+                        </li>
+                        <li>
+                          Short Papers – These are mostly composed of work in
+                          progress reports or fresh developments and have 4
+                          pages at maximum (2,500 words).
+                        </li>
+                        <li>
+                          Reflection Papers – These might review recent research
+                          literature pertaining to a particular problem or
+                          approach, indicate what the findings suggest, and/or
+                          provide a suggestion – with rationale and
+                          justification – for a different approach or
+                          perspective on that problem. Reflection papers might
+                          also analyze general trends or discuss important
+                          issues in topics related to the conference. These have
+                          4 pages at maximum (2,500 words).
+                        </li>
+                        <li>
+                          Posters / Demonstrations – These contain
+                          implementation information or work-in-progress and
+                          have two pages at maximum (1,250 words) besides the
+                          poster itself (or demonstration) that will be exposed
+                          at the conference.
+                        </li>
+                        <li>
+                          Tutorials – Tutorials can be proposed by scholars or
+                          company representatives. A proposal of maximum 250
+                          words is expected.
+                        </li>
+                        <li>
+                          Panels – Discussions on selected topics will be held.
+                          A proposal of maximum 250 words is expected.
+                        </li>
+                        <li>
+                          Invited Talks – These will be made of contributions
+                          from well-known scholars and company representatives.
+                          An abstract will be included in the conference
+                          proceedings.
+                        </li>
+                        <li>
+                          Panels – Discussions on selected topics will be held.
+                          A proposal of maximum 250 words is expected.
+                        </li>
+                        <li>
+                          Doctoral Consortium – A Doctoral Consortium will
+                          discuss in group, individual projects and on going
+                          work of PhD students. Prospective students should send
+                          a report of their PhD projects and work so far with a
+                          maximum of 4 pages (2,500 words).
+                        </li>
+                      </ul>
+                      <p>
+                        Authors may submit their work following the guidelines
+                        via email : ihcmc (at) humanoid.net
+                      </p>
                     </div>
                   </section>
                 </div>
