@@ -56,8 +56,7 @@ function Header()  {
                   <div className="h1_outer">
                     <div className="h1_bg"></div>
                     <h1 className="hd_1">
-                      Canada International Conference On Engineering and
-                      Sciences
+                      19th International Healthcare and Medical Conference
                     </h1>
                   </div>
                   <div className="header_spacer"></div>
@@ -71,7 +70,7 @@ function Header()  {
                       }}
                       className="hd_1"
                     >
-                      CICES 2023 |May 21 -25, 2023 | Calgary, Canada
+                      June 5-9, 2023 | Calgary, Canada
                     </h2>
                   </div>
                 </hgroup>
