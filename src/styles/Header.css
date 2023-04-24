@@ -12,7 +12,7 @@
 .header_extra_1 {
     width: 100%;
     height: 55px;
-    background-color: #3d3269;
+    background-color: #f0188f;
 }
 
 .header_extra_2 {
@@ -27,7 +27,7 @@
     outline: 0;
     font-size: 100%;
     /* vertical-align: baseline; */
-    background: #3e2687;
+    background-color: #bd18f0;
     display: block;
     position: relative;
     float: left;

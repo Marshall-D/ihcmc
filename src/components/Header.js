@@ -66,7 +66,7 @@ function Header()  {
                       style={{
                         fontSize: "1em",
                         color: "ffffff9c",
-                        backgroundColor: "#bdbd13",
+                        backgroundColor: "#f0188f",
                       }}
                       className="hd_1"
                     >
