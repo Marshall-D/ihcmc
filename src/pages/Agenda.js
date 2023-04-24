@@ -1,9 +1,45 @@
+import "../Styles/Home.css";
 
-import Mobile from './components/Mobile';
+import Side from "../components/Side";
 
-function Basic() {
-  return (
-    <div class="content_body_inner_2">
+function Agenda() {
+    return (
+      <div className="container_wrapper_2">
+        <div className="container_wrapper_1">
+          <div className="container_wrapper">
+            <div className="sidebar">
+              <div className="content">
+                <div className="content_inner">
+                  <div>
+                    <div className="main_content_bg"></div>
+                    <section>
+                      <div>
+                        <div>
+                          <div>
+                            <div className="hgroup_outer">
+                              <hgroup>
+                                <div className="outer_title">
+                                  <h1
+                                    className="btt"
+                                    style={{ fontSize: "2em" }}
+                                  >
+                                    Agenda
+                                  </h1>
+                                </div>
+                              </hgroup>
+                            </div>
+                          </div>
+                          <div>
+                            <div></div>
+                            <div>
+                              <div></div>
+                              <div></div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+
+                      <div class="content_body_inner_2">
       <p>
         <em>
           Please note: registration will take place in Hall 1 from 8:00 am -
@@ -448,8 +484,18 @@ function Basic() {
         </div>
       </div>
     </div>
-  );
-}
+                    </section>
+                  </div>
+                </div>
+              </div>
+              <Side />
 
-export default Basic;
-
+              <aside role="complementary"></aside>
+            </div>
+          </div>
+        </div>
+      </div>
+    );
+  }
+  
+  export default Agenda;

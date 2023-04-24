@@ -12,6 +12,9 @@ function Navigation() {
         <Link to="/reg" className="span">
           Registration
         </Link>
+         <Link to="/agenda" className="span">
+          Agenda
+        </Link>
 
         <Link to="/Visa" className="span">
           Canada Visa

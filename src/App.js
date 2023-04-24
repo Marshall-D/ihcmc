@@ -11,6 +11,7 @@ import Call from './pages/Call';
 import Contact from './pages/Contact';
 import Speaker from './pages/Speaker';
 import Travel from './pages/Travel';
+import Agenda from './pages/Agenda';
 
 
 
@@ -22,6 +23,10 @@ const router = createBrowserRouter([
       {
         path: "/",
         element: <Home />
+      },
+      {
+        path: "/agenda",
+        element: <Agenda />
       },
       {
         path: "/reg",

@@ -31,6 +31,11 @@ function Mobile() {
                 </Link>
               </li>
               <li className="mobile_menu_li">
+                <Link to="agenda" className="mobile_menu_a">
+                  Agenda
+                </Link>
+              </li>
+              <li className="mobile_menu_li">
                 <Link to="travel" className="mobile_menu_a">
                   Travel and Hotel
                 </Link>
