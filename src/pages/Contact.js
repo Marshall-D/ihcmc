@@ -56,14 +56,16 @@ function Contact() {
                           <div>
                             <div>
                               <p>
-                                Complete the form below to request information
-                                about the Canada International Conference On
-                                Engineering and Sciences .<br />
-                                We typically reply via email within 2 working
-                                days.
+                                For general inquiry about the&nbsp;International
+                                Healthcare and Medical Conference, complete the
+                                form below.
                                 <br />
-                                For urgent inquiries contact the organizers
-                                via&nbsp;call / whatsApp - +1 587 402 5051
+                                We will usually get back to you via email within
+                                24 hrs.
+                                <br />
+                                For urgent inquiry do contact the
+                                organizers&nbsp;via WhatsApp :&nbsp;+1 587 760
+                                3549
                               </p>
                             </div>
                             <div></div>

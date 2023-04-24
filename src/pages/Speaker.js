@@ -23,11 +23,9 @@ function Speaker() {
                                   className="btt"
                                   style={{ fontSize: "1.6em" }}
                                 >
-                                  Speaker and Committee{" "}
-                                </h1>{" "}
+                                  Speakers
+                                </h1>
                               </div>
-                              <span></span>
-                              <h2 className="speaker">Featured Speakers</h2>
                             </hgroup>
                           </div>
                         </div>
@@ -40,207 +38,200 @@ function Speaker() {
                         </div>
                       </div>
 
-                      <div>
-                        <div>
-                          <div>
-                            <h2>
-                              <img
-                                src="https://cices.icmbpsgroup.com/speaker-and-committee_files/041d18b.jpg"
-                                className="age"
-                              />{" "}
-                            </h2>
-                            <h3>
-                              <p className="speaker_text">
-                                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-                                &nbsp; &nbsp; &nbsp; &nbsp; Thomas Wuerthinger
-                                <br />
-                                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-                                &nbsp; &nbsp; &nbsp; &nbsp;University Of
-                                Calgary&nbsp;&nbsp;
-                                <br />
-                                <span></span>
-                                <span>
-                                  Thomas Wuerthinger is a Senior Research
-                                  Director at Oracle Labs leading programming
-                                  language implementation teams for languages
-                                  including Java, JavaScript, Ruby, and R. He is
-                                  the architect of the Graal compiler and the
-                                  Truffle self-optimizing runtime system.
-                                </span>
-                              </p>
-                            </h3>
-                            <h2>
-                              <p>
-                                <img src="https://cices.icmbpsgroup.com/speaker-and-committee_files/ac.jpg" />
-                              </p>
-                            </h2>
-                            <h3 className="speaker_name">Andrew Vaughn</h3>
-                            <h2>
-                              <p className="speaker_name">
-                                University Of Calgary
-                              </p>
-                              <p>
-                                <img
-                                  src="https://cices.icmbpsgroup.com/speaker-and-committee_files/add.jpg"
-                                  className="age"
-                                />
-                              </p>
-                            </h2>
-                            <h3 className="speaker_name">Hamilton Lohan</h3>
-                            <h2>
-                              <p className="speaker_name">
-                                University of Miami,
-                                <br />
-                                USA
-                              </p>
-                              <div>
-                                <p>
-                                  <img
-                                    src="https://cices.icmbpsgroup.com/speaker-and-committee_files/ty.jpg"
-                                    // style={{ height: "auto", width: "273px" }}
-                                    className="age"
-                                  />
-                                </p>
-                                <p></p>
-                                <p></p>
-                                <p></p>
-                                <p></p>
-                                <p></p>
-                                <p></p>
-                                <p></p>
-                              </div>
-                            </h2>
-                            <h3 className="speaker_name">Anne Bachmann</h3>
-                            <h2>
-                              <p></p>
-                              <div>
-                                <p className="speaker_name">
-                                  University Of Calgary
-                                </p>
-                                <p></p>
-                                <p></p>
-                                <p></p>
-                                <p></p>
-                                <p></p>
-                                <p></p>
-                                <p></p>
-                              </div>
-                            </h2>
-                            <h2 className="speaker_name">Keynote Speaker</h2>
-                            <h2>
-                              <p></p>
-                              <div>
-                                <br />
-                                <p></p>
-                                <p></p>
-                                <p></p>
-                                <p></p>
-                                <p></p>
-                                <p></p>
-                                <p></p>
-                              </div>
-                            </h2>
-                            <h3 className="speaker_name">Naresh Agarwal</h3>
-                            <h2>
-                              <p></p>
-                              <div>
-                                <div>
-                                  <div>
-                                    <div>
-                                      <div>
-                                        <div>
-                                          <div>
-                                            <p className="speaker_name">
-                                              Simmons University,
-                                              <br />
-                                              USA
-                                            </p>
-                                            <p></p>
-                                            <p></p>
-                                            <p></p>
-                                            <p></p>
-                                            <p></p>
-                                            <p></p>
-                                            <p></p>
-                                          </div>
-                                          <p></p>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                            </h2>
-                            <h4 className="speaker_name">Education</h4>
-                            <h2>
-                              <p></p>
-                              <div>
-                                <div>
-                                  <div>
-                                    <div>
-                                      <div>
-                                        <div>
-                                          <div>
-                                            <div>
-                                              <div>
-                                                <p className="speaker_name">
-                                                  Ph.D.
-                                                  <br />
-                                                  National University of
-                                                  Singapore, Singapore
-                                                </p>
-                                                <p className="speaker_name">
-                                                  B.A.Sc.
-                                                  <br />
-                                                  Nanyang Technological
-                                                  University, Singapore
-                                                </p>
-                                                <p></p>
-                                                <p></p>
-                                                <p></p>
-                                                <p></p>
-                                                <p></p>
-                                                <p></p>
-                                                <p></p>
-                                              </div>
-                                              <p></p>
-                                            </div>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                            </h2>
-                            <h4 className="speaker_name">Research Areas</h4>
-                            <h2>
-                              <p></p>
-                              <div>
-                                <div>
-                                  <p className="speaker_name">
-                                    Information Behavior
-                                    <br />
-                                    Knowledge Management
-                                  </p>
-                                  <p>
-                                    <br />
-                                  </p>
-                                  <p></p>
-                                  <p></p>
-                                  <p></p>
-                                  <p></p>
-                                  <p></p>
-                                  <p></p>
-                                  <p></p>
-                                  <p></p>
-                                </div>
-                                <p></p>
-                              </div>
-                            </h2>
-                          </div>
-                        </div>
-                        <div></div>
+                      <div class="content_message">
+                        <p>
+                          <img src="https://dk-media.s3.amazonaws.com/media/1vjrh/images/25362821/huge/Marie.png" />
+                          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                          <img
+                            src="https://dk-media.s3.amazonaws.com/media/1vjrh/images/25362884/huge/Jay.png"
+                            style={{
+                              fontSize: "12px",
+                              fontFamily: "Arial, Helvetica, sans-serif",
+                            }}
+                          />
+                          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                          &nbsp;&nbsp;
+                        </p>
+                        <p>
+                          Marie T. O’Toole&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Jawahar Jay Kalra
+                          <br />
+                        </p>
+                        <p>
+                          Rutgers University, USA&nbsp; &nbsp; &nbsp; &nbsp;
+                          &nbsp; &nbsp;University of Saskatchewan, Canada
+                        </p>
+                        <p>
+                          <br />
+                        </p>
+                        <p>
+                          <img src="https://dk-media.s3.amazonaws.com/media/1vjrh/images/25363048/huge/Lea.png" />
+                          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+                          <img
+                            src="https://dk-media.s3.amazonaws.com/media/1vjrh/images/25363110/huge/Marilee.png"
+                            style={{
+                              fontSize: "12px",
+                              fontFamily: "Arial, Helvetica, sans-serif",
+                            }}
+                          />
+                          <br />
+                          &nbsp;&nbsp;Lea Bill&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Marilee A
+                          Nowgesic
+                        </p>
+                        <p>
+                          Canadian Indigenous Nurses Association, Canada&nbsp;
+                          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+                        </p>
+                        <p>
+                          <img src="https://dk-media.s3.amazonaws.com/media/1vjrh/images/25363396/huge/Edwin.png" />
+                          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                          &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;
+                          <img
+                            src="https://dk-media.s3.amazonaws.com/media/1vjrh/images/25363477/huge/Michael.png"
+                            style={{
+                              fontSize: "12px",
+                              fontFamily: "Arial, Helvetica, sans-serif",
+                            }}
+                          />
+                          <br />
+                        </p>
+                        <p>
+                          Edwin Ralph&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                          &nbsp;Michael Kleerekoper * Pre-recorded lecture* In
+                          Memory of
+                        </p>
+                        <p>
+                          Professor University of Saskatchewan, Canada&nbsp;
+                          &nbsp; &nbsp; &nbsp; Medicine University of Toledo,
+                          USA
+                        </p>
+                        <p>
+                          <br />
+                        </p>
+                        <p>
+                          <img src="https://dk-media.s3.amazonaws.com/media/1vjrh/images/25363624/huge/Angela.png" />
+                          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+                          <img
+                            src="https://dk-media.s3.amazonaws.com/media/1vjrh/images/25363725/huge/Heather.png"
+                            style={{
+                              fontSize: "12px",
+                              fontFamily: "Arial, Helvetica, sans-serif",
+                            }}
+                          />
+                        </p>
+                        <p>
+                          Angela Clark&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                          &nbsp; &nbsp; &nbsp; &nbsp;Heather J. Sobko
+                        </p>
+                        <p>
+                          Utah College of Nursing, USA&nbsp; &nbsp; &nbsp;
+                          &nbsp; &nbsp;University of Cincinnati, USA
+                        </p>
+                        <p>
+                          <img src="https://dk-media.s3.amazonaws.com/media/1vjrh/images/25363847/huge/Gregory.png" />
+                          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                          &nbsp; &nbsp;
+                          <img
+                            src="https://dk-media.s3.amazonaws.com/media/1vjrh/images/25363870/huge/Stephen.png"
+                            style={{
+                              fontSize: "12px",
+                              fontFamily: "Arial, Helvetica, sans-serif",
+                            }}
+                          />
+                        </p>
+                        <p>
+                          Gregory Sugalski&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                          &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Stephen F. Vatner
+                          <br />
+                        </p>
+                        <p>
+                          Medical Director University Hospital , USA&nbsp;
+                          &nbsp; &nbsp; &nbsp;Cardiovascular Research Institute,
+                          USA
+                        </p>
+                        <p>
+                          <br />
+                        </p>
+                        <p>
+                          <em>Speaker list will be updated shortly.........</em>
+                        </p>
+                        <p>
+                          <br />
+                        </p>
+                        <p>
+                          <strong>
+                            SPONSORS
+                            <br />
+                          </strong>
+                          <br />
+                        </p>
+                        <p>
+                          <br />
+                        </p>
+                        <p>
+                          <img src="https://dk-media.s3.amazonaws.com/media/1vjrh/images/25371201/huge/Carenet_2_250.gif" />
+                          &nbsp; &nbsp; &nbsp;&nbsp;
+                          <img
+                            src="https://dk-media.s3.amazonaws.com/media/1vjrh/images/25371242/huge/EPIC_250.gif"
+                            style={{
+                              fontSize: "12px",
+                              fontFamily: "Arial, Helvetica, sans-serif",
+                            }}
+                          />
+                          &nbsp; &nbsp;&nbsp;
+                        </p>
+                        <p>
+                          <img src="https://dk-media.s3.amazonaws.com/media/1vjrh/images/25371283/huge/evicore2_250.gif" />
+                          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                          <img
+                            src="https://dk-media.s3.amazonaws.com/media/1vjrh/images/25371285/huge/HDMS2_250.gif"
+                            style={{
+                              fontSize: "12px",
+                              fontFamily: "Arial, Helvetica, sans-serif",
+                            }}
+                          />
+                        </p>
+                        <p>
+                          <img src="https://dk-media.s3.amazonaws.com/media/1vjrh/images/25371306/huge/vera_250.gif" />
+                          &nbsp; &nbsp;&nbsp;
+                          <img
+                            src="https://dk-media.s3.amazonaws.com/media/1vjrh/images/25371367/huge/HealthTap_250.gif"
+                            style={{
+                              fontSize: "12px",
+                              fontFamily: "Arial, Helvetica, sans-serif",
+                            }}
+                          />
+                        </p>
+                        <p>
+                          <br />
+                        </p>
+                        <p>
+                          <br />
+                        </p>
                       </div>
                     </div>
                   </section>
