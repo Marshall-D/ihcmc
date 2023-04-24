@@ -1,7 +1,7 @@
 
 @media screen and (width >= 1024px) {
   .nav {
-    background-color: #261b19;
+    background-color: #bd18f0;
     height: 120px;
     padding-top: 40px;
     padding-left: 100px;
@@ -12,12 +12,12 @@
   .span {
     text-align: center;
     padding: 10px;
-    background-color: #57422d;
+    /* background-color: #57422d; */
     font-family: 'OpenSans-LightRegular', Verdana, Geneva, sans-serif;
     margin: 10px;
     cursor: pointer;
     font-size: 100%;
-    color: rgb(134, 109, 64);
+    color: rgb(68, 54, 28);
     text-decoration: none;
   }
   .span:hover {

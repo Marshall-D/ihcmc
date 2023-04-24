@@ -3,7 +3,7 @@
     font-family: Verdana, Geneva, sans-serif;
     font-size: 100%;
     height: 165px;
-    background-color: #3e2687;
+    background-color: #bd18f0;
     width: 100%;
 }
 
@@ -11,7 +11,7 @@
 
 .content_info {
     vertical-align: baseline;
-    background-color: #3e2687;
+    background-color: #bd18f0;
     overflow: hidden;
     text-align: center;
     display: flex;
