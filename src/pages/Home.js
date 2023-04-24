@@ -23,7 +23,7 @@ function Home() {
                                     className="btt"
                                     style={{ fontSize: "2em" }}
                                   >
-                                    Join Us
+                                    Home
                                   </h1>
                                 </div>
                               </hgroup>
@@ -45,100 +45,67 @@ function Home() {
                                 <br />
                               </p>
                               <p>
-                                On behalf of the organizing committee, we are
-                                pleased to announce that the 6th Canada
-                                International Conference on Engineering and
-                                Sciences (CICES 2023) will be held from
-                                May&nbsp;21 to 25, 2023 in Calgary, Canada.
-                                CICES provides an ideal academic platform for
-                                researchers to present the latest research
-                                findings and describe emerging technologies, and
-                                directions in Engineering and Sciences issues.
-                                The conference seeks to contribute to presenting
-                                novel research results in all aspects of
-                                Engineering and Sciences.
-                              </p>
-                              <p>
-                                The conference aims to bring together leading
-                                academic scientists, researchers and research
-                                scholars to exchange and share their experiences
-                                and research results about all aspects of
-                                Engineering and Natural Sciences. It also
-                                provides the premier interdisciplinary forum for
-                                scientists, engineers, and practitioners to
-                                present their latest research results, ideas,
-                                developments, and applications in all areas of
-                                Engineering and Natural Sciences. The conference
-                                will bring together leading academic scientists,
-                                researchers and scholars in the domain of
-                                interest from around the world.
-                              </p>
-                              <p>
-                                The scientific program will focus on current
-                                advances in the research, production and use of
-                                Engineering and Sciences with particular focus
-                                on their role in maintaining academic level in
-                                Engineering and Applied Sciences and elevating
-                                the science level.
-                              </p>
-                              <p>
-                                The conference's goal will to provide a
-                                scientific forum for all international prestige
-                                scholars around the world and enable the
-                                interactive exchange of state-of-the-art
-                                knowledge. The conference will focus on
-                                evidence-based benefits proven in clinical
-                                trials and scientific experiments.
-                              </p>
-                              <p>
-                                <br />
-                              </p>
-                              <p>
-                                Best regards,
-                                <br />
-                              </p>
-                              <p>
-                                Dr. Clair Lohan
-                                <br />
-                                Mount Royal University
-                                <br />
-                                Calgary, Canada
-                              </p>
-                              <p>
-                                <br />
-                              </p>
-                              <p>
-                                <img
-                                  src="https://cices.icmbpsgroup.com/index_files/a.jpg"
-                                  className="age"
-                                />
-                                <img
-                                  src="https://cices.icmbpsgroup.com/index_files/b.jpg"
-                                  className="age"
-                                />
-                              </p>
-                              <p>
-                                <img
-                                  src="https://cices.icmbpsgroup.com/index_files/c.jpg"
-                                  className="age"
-                                />
-                                <img
-                                  src="https://cices.icmbpsgroup.com/index_files/d.jpg"
-                                  className="age"
-                                />
-                              </p>
-                              <p>
-                                <img
-                                  src="https://cices.icmbpsgroup.com/index_files/e.jpg"
-                                  className="age"
-                                />
-                              </p>
-                              <p>
-                                <img
-                                  src="https://cices.icmbpsgroup.com/index_files/f.jpg"
-                                  className="age"
-                                />
-                              </p>
+                  Theme : Machine Learning For Healthcare.&nbsp;&nbsp;
+                  <br />
+                  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; From
+                  Individual To National Healthcare.
+                </p>
+                <p>
+                  <br />
+                  Dear Registrant
+                </p>
+                <p>
+                  <strong>Welcome</strong> to the 19th edition of International
+                  Healthcare and Medical conference IHCMC 2023! We are confident
+                  that you will enjoy and participate in the interactive
+                  sessions. It is anticipated that participants will come away
+                  with new ideas for clinical research and the provision of
+                  optimal patient care. During the conference, you will see
+                  innovative approaches to the management of various conditions.
+                  <br />
+                </p>
+                <p>
+                  We invite Doctors, Nurses, Dentist, Opticians, Students.
+                  Healthcare providers, Pharmacist and Everyone interested in
+                  public health and safety to attend the IHCMC 2023.
+                </p>
+                <p>
+                  The importance of the team approach to patient care and
+                  research will be clear. As a product of interdisciplinary
+                  communication and research efforts, care plans will be
+                  suggested for various conditions. In this way, a process of
+                  continuing quality improvement can be fostered. Such a
+                  process, in addition to optimizing&nbsp;patient care
+                  practices, should minimize the problems of medical errors and
+                  burn-out that can be serious issues for medical professionals.
+                  See you at the conference.
+                </p>
+                <p>
+                  <br />
+                  Dr. Carl Thompson
+                  <br />
+                  For IHCMC Organizing Committee.
+                </p>
+                <p>
+                  <br />
+                </p>
+                <p>
+                  The IHCMC 2023 is organized by the Beyond Banking Group&nbsp;
+                  and accredited by the CNE.
+                  <br />
+                  Participants will receive a certificate of participation
+                  endorsed by the CNE.
+                </p>
+                <p>
+                  <img src="https://dk-media.s3.amazonaws.com/media/1vjrh/images/25365566/huge/BB_LOGO.jpg" />
+                  &nbsp; &nbsp;
+                </p>
+                <p>
+                  <img src="https://dk-media.s3.amazonaws.com/media/1vjrh/images/25365590/huge/euronursing2019-6001.png" />
+                </p>
+                <p>
+                  <br />
+                </p>
                             </div>
                           </div>
                           <div></div>
