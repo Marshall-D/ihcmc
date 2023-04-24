@@ -33,20 +33,149 @@ function Side() {
             <div className="box_content_body_bg"></div>
             <div className="box_body-inner_2">
               <div className="box_content_body_inner_2">
+                <table cellpadding="1" cellspacing="2" width="100%">
+                  {" "}
+                  <tbody>
+                    <tr>
+                      <td>Conference Dates</td>
+                      <td>5-9 June, 2023</td>
+                    </tr>
+                    <tr>
+                      <td>Abstract Submission Deadline</td>
+                      <td>15 May, 2023</td>
+                    </tr>{" "}
+                    <tr>
+                      <td>Paper Submission Deadline</td>
+                      <td>15 May, 2023</td>
+                    </tr>{" "}
+                    <tr>
+                      <td>Registration Deadline</td>
+                      <td>10 May, 2023</td>
+                    </tr>{" "}
+                    <tr>
+                      <td>
+                        <br />
+                      </td>
+                      <td></td>
+                    </tr>
+                    <tr>
+                      <td></td>
+                      <td>
+                        <br />
+                      </td>
+                    </tr>{" "}
+                    <tr>
+                      <td></td>
+                      <td>
+                        <br />
+                      </td>
+                    </tr>{" "}
+                  </tbody>
+                </table>
                 <p>
-                  <img
-                    className="age"
-                    src="https://cices.icmbpsgroup.com/index_files/covid-19-update-news.jpg"
-                  />
+                  <br />
                 </p>
                 <p>
-                  May&nbsp;&nbsp;21-25, 2023 Conference Date
+                  <a
+                    href="https://form.jotform.com/200501931891147"
+                    target="_blank"
+                  >
+                    <img
+                      src="https://dk-media.s3.amazonaws.com/media/1vjrh/images/31870707/huge/Register-now-button.jpg"
+                      style={{ height: "auto", width: "428px" }}
+                      alt=""
+                    />
+                  </a>
+                </p>
+                <p>PARTNERS</p>
+                <p>
                   <br />
-                  May 13, 2023 - Abstract Submission Deadline
+                </p>
+                <p>
                   <br />
-                  May 10, 2023&nbsp;- Full Paper Submission Deadline
+                </p>
+                <p>
                   <br />
-                  May&nbsp;&nbsp;15, 2023 - Registration Deadline
+                </p>
+                <p>
+                  <img src="https://dk-media.s3.amazonaws.com/media/1vjrh/images/69151387/huge/cwf.png" />
+                </p>
+                <p>
+                  <a
+                    href="https://www.wockhardtfoundation.org/"
+                    target="_blank"
+                  >
+                    <img
+                      src="https://dk-media.s3.amazonaws.com/media/1vjrh/images/69151185/huge/LIFEwins2.png"
+                      alt=""
+                    />
+                  </a>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section id="box24080996" class="box box_note">
+        <div class="inner_box">
+          <div class="box_bg"></div>
+          <div class="box_content_headers">
+            <div class="box_content_headers_inner_1">
+              <div class="hgroup_outer">
+                <hgroup class="outer_title">
+                  <h3>
+                    <span
+                      class="doodlepic_icon box_notes_icon"
+                      aria-hidden="true"
+                    >
+                      
+                    </span>{" "}
+                    <span class="btt">Plan To Attend</span>
+                  </h3>
+                </hgroup>
+              </div>
+            </div>
+
+            <div class="box_content_headers_bg_outer">
+              <div class="box_content_headers_bg_fade"></div>
+              <div class="box_content_headers_bg_outer_1">
+                <div class="box_content_headers_bg"></div>
+                <div class="box_content_headers_bg2"></div>
+              </div>
+            </div>
+          </div>
+
+          <div class="box_content_body">
+            <div class="box_content_body_bg"></div>
+            <div class="box_content_body_inner_1">
+              <div class="box_content_body_inner_2">
+                <p>
+                  <img src="https://dk-media.s3.amazonaws.com/media/1vjrh/images/25366216/huge/ihcmc.png" />
+                  <br />
+                  <strong>
+                    The definitive event for healthcare practitioners around the
+                    world!
+                  </strong>
+                </p>
+                <p>
+                  During the conference, there will be different forms of
+                  engagements including moderated keynote talks, panel
+                  discussions, an innovation fair and case competition.
+                  Additionally, there will be significant networking time during
+                  round table breakfasts &amp; lunches, coffee chats, and a
+                  closing reception.
+                </p>
+                <p>
+                  <strong>Benefits of Attending</strong>
+                </p>
+                <p>
+                  The International Health and Medical Conference will provide
+                  many opportunities to network and share knowledge and the
+                  conference will be a fruitful platform to improve skills,
+                  expertise, and experiences of the healthcare and medical
+                  industry participants. The participants will take the
+                  opportunity to debate and exchange ideas through oral
+                  sessions, workshops and one to one meetings.
                 </p>
                 <p>
                   <br />
@@ -57,218 +186,57 @@ function Side() {
         </div>
       </section>
 
-      <section className="box_234">
-        <div className="inner_box">
-          <div className="box_bg"></div>
-          <div className="box_content_headers">
-            <div className="box_content_headers_inner_1">
-              <div className="hgroup_outer">
-                <hgroup className="outer_title">
+      <section id="box24080997" class="box box_note">
+        <div class="inner_box">
+          <div class="box_bg"></div>
+          <div class="box_content_headers">
+            <div class="box_content_headers_inner_1">
+              <div class="hgroup_outer">
+                <hgroup class="outer_title">
                   <h3>
-                    <span className="box_note_icon" aria-hidden="true">
+                    <span
+                      class="doodlepic_icon box_notes_icon"
+                      aria-hidden="true"
+                    >
                       
                     </span>{" "}
-                    <span className="btt">Venue</span>
+                    <span class="btt">Venue</span>
                   </h3>
                 </hgroup>
               </div>
             </div>
 
-            <div className="box_content_headers_bg_outer">
-              <div className="box_content_headers_bg_fade"></div>
-              <div className="box_content_headers_bg_outer_1">
-                <div className="box_content_headers_bg"></div>
-                <div className="box_content_headers_bg2"></div>
+            <div class="box_content_headers_bg_outer">
+              <div class="box_content_headers_bg_fade"></div>
+              <div class="box_content_headers_bg_outer_1">
+                <div class="box_content_headers_bg"></div>
+                <div class="box_content_headers_bg2"></div>
               </div>
             </div>
           </div>
 
-          <div className="box_content_body">
-            <div className="box_content_body_bg"></div>
-            <div className="box_content_body_inner_1">
-              <div className="box_content_body_inner_2">
-                <p></p>
-                <p></p>
+          <div class="box_content_body">
+            <div class="box_content_body_bg"></div>
+            <div class="box_content_body_inner_1">
+              <div class="box_content_body_inner_2">
+                <p>
+                  <img
+                    src="https://dk-media.s3.amazonaws.com/media/1vjrh/images/39549005/huge/ls.jpg"
+                    style={{ height: "auto", width: "280px" }}
+                  />
+                </p>
                 <p>
                   2478 Pegasus Rd NE
                   <br />
-                  Calgary, AB T2E 8G8, Canada
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      <section className="box_234">
-        <div className="inner_box">
-          <div className="box_bg"></div>
-          <div className="box_content_headers">
-            <div className="box_content_headers_inner_1">
-              <div className="hgroup_outer">
-                <hgroup className="outer_title">
-                  <h3>
-                    <span className="box_note_icon" aria-hidden="true">
-                      
-                    </span>{" "}
-                    <span className="btt">Agenda</span>
-                  </h3>
-                </hgroup>
-              </div>
-            </div>
-
-            <div className="box_content_headers_bg_outer">
-              <div className="box_content_headers_bg_fade"></div>
-              <div className="box_content_headers_bg_outer_1">
-                <div className="box_content_headers_bg"></div>
-                <div className="box_content_headers_bg2"></div>
-              </div>
-            </div>
-          </div>
-
-          <div className="box_content_body">
-            <div className="box_content_body_bg"></div>
-            <div className="box_content_body_inner_1">
-              <div className="box_content_body_inner_2">
-                <p>To Be Announced&nbsp;</p>
-                <p>
+                  Calgary, AB T2E 8G8
                   <br />
+                  Canada
                 </p>
               </div>
             </div>
           </div>
         </div>
       </section>
-
-      {/* <section className="box_234">
-        <div className="inner_box">
-          <div className="box_bg"></div>
-          <div className="box_content_headers">
-            <div className="box_content_headers_inner_1">
-              <div className="hgroup_outer">
-                <hgroup className="outer_title">
-                  <h3>
-                    <span
-                      className="box_note_icon"  
-                      aria-hidden="true"
-                    >
-                      
-                    </span>{" "}
-                    <span className="btt">Login</span>
-                  </h3>
-                </hgroup>
-              </div>
-            </div>
-
-            <div className="box_content_headers_bg_outer">
-              <div className="box_content_headers_bg_fade"></div>
-              <div className="box_content_headers_bg_outer_1">
-                <div className="box_content_headers_bg"></div>
-                <div className="box_content_headers_bg2"></div>
-              </div>
-            </div>
-          </div>
-
-          <div className="box_content_body">
-            <div className="box_content_body_bg"></div>
-            <div className="box_content_body_inner_1">
-              <div className="box_content_body_inner_2">
-                <form accept-charset="UTF-8" action="auth/login" method="post">
-                  <div style={{ margin: "0", padding: "0", display: "inline" }}>
-                    <input name="utf8" type="hidden" value="✓" />
-                    <input
-                      name="authenticity_token"
-                      type="hidden"
-                      value="VjUZZbwfJvrkUsseVGkA73MKTdyc3RC9Ve7v8icFf8s="
-                    />
-                  </div>
-                  <input
-                    id="redirect_to_back"
-                    name="redirect_to_back"
-                    type="hidden"
-                    value="true"
-                  />
-                  <table className="login" width="100%" summary="layout table">
-                    <tbody>
-                      <tr className="row1">
-                        <td>
-                          <label>Email:</label>
-                        </td>
-                      </tr>
-                      <tr className="row2">
-                        <td>
-                          <span className="textbox" id="login_box_email">
-                            <input
-                              className="login"
-                              id="user_email_address"
-                              name="user[email_address]"
-                              size="10"
-                              type="text"
-                              value=""
-                            />
-                          </span>
-                        </td>
-                      </tr>
-                      <tr className="row3">
-                        <td>
-                          <label>Password:</label>
-                        </td>
-                      </tr>
-                      <tr className="row4">
-                        <td>
-                          <span className="textbox" id="login_box_pwd">
-                            <input
-                              className="password"
-                              id="user_password"
-                              name="user[password]"
-                              size="10"
-                              type="password"
-                              value=""
-                            />
-                          </span>
-                        </td>
-                      </tr>
-                      <tr className="row5">
-                        <td>
-                          <span className="button" id="login_box_submit">
-                            <input className="btn" type="submit" value="Login" />
-                          </span>
-                        </td>
-                      </tr>
-                      <tr className="row6">
-                        <td className="login_box_remember_me">
-                          <span className="checkbox" id="ç">
-                            <input
-                              id="save_login"
-                              name="save_login"
-                              type="checkbox"
-                              value="1"
-                            />
-                          </span>{" "}
-                          <label>Remember Me</label>
-                        </td>
-                      </tr>
-                      <tr className="row7">
-                        <td className="login_box_links">
-                          <span className="iconlink">
-                            <a href="auth/forgot_password">
-                              {" "}
-                              <span className="doodlepic_icon" aria-hidden="true">
-                                
-                              </span>{" "}
-                              <span className="link_text">Forgot Password?</span>
-                            </a>
-                          </span>
-                        </td>
-                      </tr>
-                    </tbody>
-                  </table>
-                </form>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section> */}
     </aside>
   );
 }
