@@ -1,5 +1,5 @@
 import Side from "../components/Side";
-import "../Styles/Home.css";
+import "../styles/Home.css";
 import emailjs from '@emailjs/browser';
 import React, { useRef, useState } from 'react'
 

@@ -1,6 +1,5 @@
 import Side from "../components/Side";
-import "../Styles/Home.css";
-// import "../Styles/ColinBody.css";
+import "../styles/Home.css";
 
 
 function Registration() {

@@ -1,7 +1,7 @@
 import Mobile from "./Mobile";
 import {ImMenu} from "react-icons/im"
 import {MdClose} from "react-icons/md"
-import "../Styles/Header.css";
+import "../styles/Header.css";
 import React, {useContext} from 'react'
 import { AuthContext } from '../Context/Context';
 import { Carousel } from 'react-responsive-carousel';

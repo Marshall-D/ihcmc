@@ -1,5 +1,5 @@
 import Side from "../components/Side";
-import "../Styles/Home.css";
+import "../styles/Home.css";
 
 function Travel() {
   return (

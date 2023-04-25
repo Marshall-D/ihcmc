@@ -1,4 +1,4 @@
-import "../Styles/Home.css";
+import "../styles/Home.css";
 
 function Side() {
   return (

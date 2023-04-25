@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import "../Styles/Mobile.css";
+import "../styles/Mobile.css";
 
 function Mobile() {
     return (
