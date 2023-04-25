@@ -1,5 +1,7 @@
-@import url('https://fonts.cdnfonts.com/css/helvetica-2');
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+/* @import url('https://fonts.cdnfonts.com/css/helvetica-2');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,300&display=swap');
+
 
 .header_wrapper_1 {
     width: 100%;
@@ -46,7 +48,7 @@
     vertical-align: middle;
     font-size: 2em;
     display: inline-block;
-    font-family: 'Bebas Neue', cursive;
+    font-family: 'Open Sans', sans-serif;
     margin: 0;
     line-height: normal;
     color: #ffffff;
@@ -64,7 +66,7 @@
     vertical-align: middle;
     font-size: 2em;
     display: inline-block;
-    font-family: 'Bebas Neue', cursive;
+    font-family: 'Open Sans', sans-serif;
     margin: 0;
     line-height: normal;
     color: #ffffff;
@@ -103,7 +105,7 @@
 
 }
 
-@media screen and (width >=1400px) {
+/* @media screen and (width >=1400px) {
 
     .h1_outer {
         padding-left: 200px;
@@ -117,7 +119,7 @@
         padding-right: 100px;
 
     }
-}
+} */
 
 @media screen and (width <1024px) {
     .header_extra_2 {

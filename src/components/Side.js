@@ -126,10 +126,11 @@ function Side() {
                 <hgroup class="outer_title">
                   <h3>
                     <span
-                      class="doodlepic_icon box_notes_icon"
+                      className="icon_1"
                       aria-hidden="true"
                     >
-                      
+                      
+                      
                     </span>{" "}
                     <span class="btt">Plan To Attend</span>
                   </h3>
@@ -197,7 +198,7 @@ function Side() {
                 <hgroup class="outer_title">
                   <h3>
                     <span
-                      class="doodlepic_icon box_notes_icon"
+                      className="icon_1"
                       aria-hidden="true"
                     >
                       

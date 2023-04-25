@@ -1,3 +1,47 @@
+
+font: 62.5% / 22px Verdana, Geneva, sans-serif;
+cursor: pointer;
+border-collapse: collapse;
+border-spacing: 0px;
+text-align: left;
+border-width: 0px;
+border-style: initial;
+border-color: initial;
+border-image: initial;
+outline: 0px;
+background: transparent;
+font-weight: normal;
+vertical-align: middle;
+font-size: 3.6em;
+display: inline-block;
+font-family: OpenSans-LightRegular, Verdana, Geneva, sans-serif;
+margin: 0px;
+line-height: normal;
+color: rgb(255, 255, 255);
+padding: 0px 0.1em;
+
+
+
+
+.icon_1{    font: 62.5% / 22px Verdana, Geneva, sans-serif;
+    color: rgb(240, 140, 26);
+    margin: 0px;
+    padding: 0px;
+    border-width: 0px;
+    border-style: initial;
+    border-color: initial;
+    border-image: initial;
+    outline: 0px;
+    background: transparent;
+    font-family: doodlepic;
+    font-weight: normal;
+    vertical-align: bottom;
+    display: inline-block;
+    text-align: center;
+    line-height: 1;
+    font-style: normal !important;
+    font-size: 120%;}
+
 .speaker_text {
     font: normal 16px/22px Verdana, Geneva, sans-serif;
     color: #584f47;

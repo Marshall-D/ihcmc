@@ -9,9 +9,9 @@ function Mobile() {
             <ul className="mobile_menu_ul">
               <li className="mobile_menu_title">
                 <div style={{ padding: "15px" }}>
-                  Canada International Conference On Engineering and Sciences
+                19th International Healthcare and Medical Conference
                   <span className="mobile_menu_title_span">
-                    CICES 2023 |May 21 -25, 2023 | Calgary, Canada
+                  June 5-9, 2023 | Calgary, Canada
                   </span>
                 </div>
               </li>
