@@ -4,8 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
-/src/Roughwork.js
-/src/Roughwork.css
+
 # testing
 /coverage
 
