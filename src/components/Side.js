@@ -82,7 +82,7 @@ function Side() {
                   >
                     <img
                       src="https://dk-media.s3.amazonaws.com/media/1vjrh/images/31870707/huge/Register-now-button.jpg"
-                      style={{ height: "auto", width: "428px" }}
+                      className="age"
                       alt=""
                     />
                   </a>
@@ -98,7 +98,7 @@ function Side() {
                   <br />
                 </p>
                 <p>
-                  <img src="https://dk-media.s3.amazonaws.com/media/1vjrh/images/69151387/huge/cwf.png" />
+                  <img src="https://dk-media.s3.amazonaws.com/media/1vjrh/images/69151387/huge/cwf.png" className="age"/>
                 </p>
                 <p>
                   <a
@@ -107,6 +107,7 @@ function Side() {
                   >
                     <img
                       src="https://dk-media.s3.amazonaws.com/media/1vjrh/images/69151185/huge/LIFEwins2.png"
+                      className="age"
                       alt=""
                     />
                   </a>
@@ -150,7 +151,8 @@ function Side() {
             <div class="box_content_body_inner_1">
               <div class="box_content_body_inner_2">
                 <p>
-                  <img src="https://dk-media.s3.amazonaws.com/media/1vjrh/images/25366216/huge/ihcmc.png" />
+                  <img src="https://dk-media.s3.amazonaws.com/media/1vjrh/images/25366216/huge/ihcmc.png" 
+                  className="age"/>
                   <br />
                   <strong>
                     The definitive event for healthcare practitioners around the
@@ -222,7 +224,7 @@ function Side() {
                 <p>
                   <img
                     src="https://dk-media.s3.amazonaws.com/media/1vjrh/images/39549005/huge/ls.jpg"
-                    style={{ height: "auto", width: "280px" }}
+                    className="age"
                   />
                 </p>
                 <p>
