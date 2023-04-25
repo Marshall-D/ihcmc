@@ -103,11 +103,13 @@ function Home() {
                                 participation endorsed by the CNE.
                               </p>
                               <p>
-                                <img src="https://dk-media.s3.amazonaws.com/media/1vjrh/images/25365566/huge/BB_LOGO.jpg" />
+                                <img src="https://dk-media.s3.amazonaws.com/media/1vjrh/images/25365566/huge/BB_LOGO.jpg" 
+                                className="age"/>
                                 &nbsp; &nbsp;
                               </p>
                               <p>
-                                <img src="https://dk-media.s3.amazonaws.com/media/1vjrh/images/25365590/huge/euronursing2019-6001.png" />
+                                <img src="https://dk-media.s3.amazonaws.com/media/1vjrh/images/25365590/huge/euronursing2019-6001.png"
+                                className="age" />
                               </p>
                               <p>
                                 <br />

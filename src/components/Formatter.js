@@ -3,6 +3,7 @@ import Header from './Header';
 import { Outlet } from 'react-router-dom'
 import '../App.css';
 import Navigation from './Navigation';
+import CarouselPage from './CarouselPage';
 
 
 
@@ -14,7 +15,9 @@ function Formatter() {
         <Header />
       </div>
       <Navigation />
+      <CarouselPage></CarouselPage>
       <div
+      
         style={{
           display: "flex",
           width: "100%",

@@ -4,6 +4,9 @@ import {MdClose} from "react-icons/md"
 import "../Styles/Header.css";
 import React, {useContext} from 'react'
 import { AuthContext } from '../Context/Context';
+import { Carousel } from 'react-responsive-carousel';
+import 'react-responsive-carousel/lib/styles/carousel.min.css';
+
 
 
 

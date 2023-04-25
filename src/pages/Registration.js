@@ -142,11 +142,17 @@ function Registration() {
                           <br />
                         </p>
                         <p>
-                          <img src="https://dk-media.s3.amazonaws.com/media/1vjrh/images/31869185/huge/Table_1.png" />
+                          <img
+                            src="https://dk-media.s3.amazonaws.com/media/1vjrh/images/31869185/huge/Table_1.png"
+                            className="age"
+                          />
                           <br />
                         </p>
                         <p>
-                          <img src="https://dk-media.s3.amazonaws.com/media/1vjrh/images/31869187/huge/Table_2.png" />
+                          <img
+                            src="https://dk-media.s3.amazonaws.com/media/1vjrh/images/31869187/huge/Table_2.png"
+                            className="age"
+                          />
                         </p>
                         <p>
                           <br />
@@ -158,7 +164,7 @@ function Registration() {
                           >
                             <img
                               src="https://dk-media.s3.amazonaws.com/media/1vjrh/images/31870810/huge/Register-now-button.jpg"
-                              style={{ height: "auto", width: "428px" }}
+                              className="age"
                               alt=""
                             />
                           </a>

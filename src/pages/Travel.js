@@ -46,7 +46,8 @@ function Travel() {
                           </strong>
                         </p>
                         <p>
-                          <img src="https://dk-media.s3.amazonaws.com/media/1vjrh/images/39549046/huge/venuev.png" />
+                          <img src="https://dk-media.s3.amazonaws.com/media/1vjrh/images/39549046/huge/venuev.png"
+                          className="age" />
                         </p>
                         <p>
                           <strong>
@@ -65,7 +66,8 @@ function Travel() {
                           <br />
                         </p>
                         <p>
-                          <img src="https://dk-media.s3.amazonaws.com/media/1vjrh/images/25387263/huge/images.jpg" />
+                          <img src="https://dk-media.s3.amazonaws.com/media/1vjrh/images/25387263/huge/images.jpg" 
+                          className="age"/>
                         </p>
                         <p>
                           The Calgary International Airport is the closest
@@ -90,7 +92,8 @@ function Travel() {
                           <br />
                         </p>
                         <p>
-                          <img src="https://dk-media.s3.amazonaws.com/media/1vjrh/images/25387326/huge/Transit_1.png" />
+                          <img src="https://dk-media.s3.amazonaws.com/media/1vjrh/images/25387326/huge/Transit_1.png" 
+                          className="age" />
                         </p>
                         <p>
                           Delegates who notify the organizers of their itinerary
