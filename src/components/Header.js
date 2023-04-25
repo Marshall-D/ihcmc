@@ -66,9 +66,8 @@ function Header()  {
                       style={{
                         fontSize: "1em",
                         color: "ffffff9c",
-                        backgroundColor: "#f0188f",
                       }}
-                      className="hd_1"
+                      className="hd_2"
                     >
                       June 5-9, 2023 | Calgary, Canada
                     </h2>

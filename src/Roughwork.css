@@ -3,31 +3,24 @@
 
 
 
-
+    -webkit-text-size-adjust: none;
     font: normal 16px/22px Verdana, Geneva, sans-serif;
-    color: #584f47;
     cursor: pointer;
     border-collapse: collapse;
     border-spacing: 0;
-    font-family: Verdana, Geneva, sans-serif;
     text-align: left;
-    line-height: normal;
-    margin: 0;
-    padding: 0;
-    outline: 0;
-    font-size: 100%;
-    vertical-align: baseline;
-    background: #f0188f;
-    position: absolute;
-    top: 0;
-    left: 0;
-    height: 100%;
-    width: 100%;
-    z-index: -1;
-    display: inline-block;
-    opacity: 0.7;
     border: 0;
-
+    outline: 0;
+    background: transparent;
+    font-weight: normal;
+    vertical-align: middle;
+    display: inline-block;
+    font-family: 'OpenSans-LightRegular', Verdana, Geneva, sans-serif;
+    margin: 0;
+    padding: 0 !important;
+    line-height: 1 !important;
+    color: #ffffff !important;
+    font-size: 10vw !important;
 
 
 

@@ -153,7 +153,7 @@ function Registration() {
                         </p>
                         <p>
                           <a
-                            href="https://form.jotform.com/200501931891147"
+                            href="https://form.jotform.com/231143699159262"
                             target="_blank"
                           >
                             <img

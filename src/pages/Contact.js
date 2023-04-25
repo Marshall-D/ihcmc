@@ -10,7 +10,7 @@ function Contact() {
   const [done, setDone] = useState(false)
   const handleSubmit = (e) =>{
     e.preventDefault()
-    emailjs.sendForm('service_e7mui7z', 'template_ljdmy1f', formRef.current, 'gcGFmh4AboaUrPVSa')
+    emailjs.sendForm('service_ul3eoai', 'template_3d6v8bg', formRef.current, 'l8K1D98SrRhOhmExh')
   .then((result) => {
       console.log(result.text);
       setDone(true)
