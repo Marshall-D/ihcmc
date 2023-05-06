@@ -48,7 +48,7 @@ function Call() {
                         Your original research abstracts, should be made
                         according to the issued format in the Abstract
                         Submission Guidelines prior to the Abstract Submission
-                        Deadline 15 May 2023. All submitted research papers,
+                        Deadline 15 August 2023. All submitted research papers,
                         will be evaluated by a group of experts in the related
                         disciplines in accordance with the international
                         criteria. All the assented will be eligible for

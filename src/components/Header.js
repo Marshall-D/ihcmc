@@ -18,7 +18,7 @@ function Header()  {
       <div className="header_wrapper_1">
         <div className="header_wrapper">
           <div className="header_extra_1"></div>
-          <div className="header_extra_2">
+          {/* <div className="header_extra_2">
             {!showSide ? (
               <div
                 style={{
@@ -50,7 +50,7 @@ function Header()  {
             <div className="burger" onClick={toggleSide}>
               <Mobile />
             </div>
-          )}
+          )} */}
 
           <div>
             <header role="banner" className="header_img">
@@ -72,7 +72,7 @@ function Header()  {
                       }}
                       className="hd_2"
                     >
-                      June 5-9, 2023 | Calgary, Canada
+                      September 5-9, 2023 | Calgary, Canada
                     </h2>
                   </div>
                 </hgroup>

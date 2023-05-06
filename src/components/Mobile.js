@@ -11,7 +11,7 @@ function Mobile() {
                 <div style={{ padding: "15px" }}>
                 19th International Healthcare and Medical Conference
                   <span className="mobile_menu_title_span">
-                  June 5-9, 2023 | Calgary, Canada
+                  September 5-9, 2023 | Calgary, Canada
                   </span>
                 </div>
               </li>

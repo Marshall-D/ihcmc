@@ -128,10 +128,29 @@
         height: 50px;
         background-color: #f0188f;
     }
+    
 
     .header_extra_1 {
         display: none;
     }
+    .topHeader {
+        --scroll-bar-w: 0px;
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+        border: 0;
+        font: inherit;
+        display: block;
+        position: fixed;
+        z-index: 8;
+        width: 100%;
+    }
+    .header_img {
+        height: auto;
+        /* font-size: 1.8em; */
+        width: 100%;
+        padding-top: 30px;
 
+    }
 
 }

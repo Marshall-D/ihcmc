@@ -38,19 +38,19 @@ function Side() {
                   <tbody>
                     <tr>
                       <td>Conference Dates</td>
-                      <td>5-9 June, 2023</td>
+                      <td>5-9 September, 2023</td>
                     </tr>
                     <tr>
                       <td>Abstract Submission Deadline</td>
-                      <td>15 May, 2023</td>
+                      <td>15 August, 2023</td>
                     </tr>{" "}
                     <tr>
                       <td>Paper Submission Deadline</td>
-                      <td>15 May, 2023</td>
+                      <td>15 August, 2023</td>
                     </tr>{" "}
                     <tr>
                       <td>Registration Deadline</td>
-                      <td>10 May, 2023</td>
+                      <td>10 August, 2023</td>
                     </tr>{" "}
                     <tr>
                       <td>
