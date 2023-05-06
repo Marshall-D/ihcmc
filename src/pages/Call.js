@@ -240,7 +240,7 @@ function Call() {
                       </ul>
                       <p>
                         Authors may submit their work following the guidelines
-                        via email : ihcmc (at) humanoid.net
+                        via email : ihcmcinquiry@gmail.com
                       </p>
                     </div>
                   </section>

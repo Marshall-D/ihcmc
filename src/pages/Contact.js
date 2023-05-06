@@ -64,8 +64,7 @@ function Contact() {
                                 24 hrs.
                                 <br />
                                 For urgent inquiry do contact the
-                                organizers&nbsp;via WhatsApp :&nbsp;+1 587 760
-                                3549
+                                organizers&nbsp;via WhatsApp :&nbsp;+1 (256) 398‑1089
                               </p>
                             </div>
                             <div></div>
