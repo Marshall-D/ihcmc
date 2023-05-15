@@ -10,7 +10,7 @@ function TopHeader() {
 
   return (
     <div className="topHeader">
-         <div className="header_extra_2">
+         {/* <div className="header_extra_2">
             {!showSide ? (
               <div
                 style={{
@@ -37,10 +37,10 @@ function TopHeader() {
               </div>
             )}
             <div></div>
-          </div>
+          </div> */}
           {showSide && (
             <div  onClick={toggleSide}>
-              <Mobile />
+              {/* <Mobile /> */}
             </div>
           )}
 

@@ -18,6 +18,7 @@ function Header()  {
       <div className="header_wrapper_1">
         <div className="header_wrapper">
           <div className="header_extra_1"></div>
+          <Mobile/>
           {/* <div className="header_extra_2">
             {!showSide ? (
               <div
