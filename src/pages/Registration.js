@@ -1,7 +1,6 @@
 import Side from "../components/Side";
 import "../styles/Home.css";
 
-
 function Registration() {
   return (
     <div className="container_wrapper_2">
@@ -158,7 +157,7 @@ function Registration() {
                         </p>
                         <p>
                           <a
-                            href="https://form.jotform.com/231143699159262"
+                            href="https://form.jotform.com/232395001502241"
                             target="_blank"
                           >
                             <img

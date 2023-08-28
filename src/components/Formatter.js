@@ -1,19 +1,16 @@
-import Footer from './Footer';
-import Header from './Header';
-import { Outlet } from 'react-router-dom'
-import '../App.css';
-import Navigation from './Navigation';
-import CarouselPage from './CarouselPage';
-import TopHeader from './TopHeader';
-
-
-
+import Footer from "./Footer";
+import Header from "./Header";
+import { Outlet } from "react-router-dom";
+import "../App.css";
+import Navigation from "./Navigation";
+import CarouselPage from "./CarouselPage";
+import TopHeader from "./TopHeader";
 
 function Formatter() {
   return (
     <div style={{ width: "100%", display: "flex", flexDirection: "column" }}>
       <div>
-        <TopHeader/>
+        <TopHeader />
       </div>
       <div style={{ width: "100%" }}>
         <Header />
@@ -21,7 +18,6 @@ function Formatter() {
       <Navigation />
       <CarouselPage></CarouselPage>
       <div
-      
         style={{
           display: "flex",
           width: "100%",
