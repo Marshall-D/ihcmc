@@ -38,19 +38,19 @@ function Side() {
                   <tbody>
                     <tr>
                       <td>Conference Dates</td>
-                      <td>5-9 September, 2023</td>
+                      <td>5-9 November, 2023</td>
                     </tr>
                     <tr>
                       <td>Abstract Submission Deadline</td>
-                      <td>15 August, 2023</td>
+                      <td>15 October, 2023</td>
                     </tr>{" "}
                     <tr>
                       <td>Paper Submission Deadline</td>
-                      <td>15 August, 2023</td>
+                      <td>15 October, 2023</td>
                     </tr>{" "}
                     <tr>
                       <td>Registration Deadline</td>
-                      <td>10 August, 2023</td>
+                      <td>10 October, 2023</td>
                     </tr>{" "}
                     <tr>
                       <td>
@@ -77,7 +77,7 @@ function Side() {
                 </p>
                 <p>
                   <a
-                    href="https://form.jotform.com/231143699159262"
+                    href="https://form.jotform.com/232395001502241"
                     target="_blank"
                   >
                     <img
@@ -98,7 +98,10 @@ function Side() {
                   <br />
                 </p>
                 <p>
-                  <img src="https://dk-media.s3.amazonaws.com/media/1vjrh/images/69151387/huge/cwf.png" className="age"/>
+                  <img
+                    src="https://dk-media.s3.amazonaws.com/media/1vjrh/images/69151387/huge/cwf.png"
+                    className="age"
+                  />
                 </p>
                 <p>
                   <a
@@ -125,12 +128,8 @@ function Side() {
               <div class="hgroup_outer">
                 <hgroup class="outer_title">
                   <h3>
-                    <span
-                      className="icon_1"
-                      aria-hidden="true"
-                    >
+                    <span className="icon_1" aria-hidden="true">
                       
-                      
                     </span>{" "}
                     <span class="btt">Plan To Attend</span>
                   </h3>
@@ -152,8 +151,10 @@ function Side() {
             <div class="box_content_body_inner_1">
               <div class="box_content_body_inner_2">
                 <p>
-                  <img src="https://dk-media.s3.amazonaws.com/media/1vjrh/images/25366216/huge/ihcmc.png" 
-                  className="age"/>
+                  <img
+                    src="https://dk-media.s3.amazonaws.com/media/1vjrh/images/25366216/huge/ihcmc.png"
+                    className="age"
+                  />
                   <br />
                   <strong>
                     The definitive event for healthcare practitioners around the
@@ -197,10 +198,7 @@ function Side() {
               <div class="hgroup_outer">
                 <hgroup class="outer_title">
                   <h3>
-                    <span
-                      className="icon_1"
-                      aria-hidden="true"
-                    >
+                    <span className="icon_1" aria-hidden="true">
                       
                     </span>{" "}
                     <span class="btt">Venue</span>
